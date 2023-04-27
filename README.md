@@ -7,7 +7,7 @@ Para isso as seguintes questões foram abordadas:
 
 >* Quantas pessoas na base de dados do *Clube do Livro* não estão ativas?
 >* Qual é a profissão que mais compra?
->* Qual é a quantidade de desmpregados?
+>* Qual é a quantidade de desempregados?
 >* Qual é a evolução do ecommerce ao longo do tempo?
 
 ## Conteúdo abordado:
